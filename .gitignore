@@ -4,3 +4,7 @@ data/
 kaggle.json
 __pycache__/
 *.pyc
+runs/**/weights/
+weights/
+yolov8n.pt
+yolo26n.pt
