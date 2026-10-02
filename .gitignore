@@ -1,0 +1,6 @@
+.venv/
+violations/
+data/
+kaggle.json
+__pycache__/
+*.pyc
