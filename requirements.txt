@@ -1,0 +1,5 @@
+ultralytics>=8.1
+opencv-python
+streamlit
+pillow
+kaggle
